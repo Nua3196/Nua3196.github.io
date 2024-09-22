@@ -1,6 +1,6 @@
 ---
 # Display name
-title: about me!
+title: 홍사강
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
