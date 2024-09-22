@@ -6,8 +6,8 @@ title: 홍사강
 name_pronunciation: Hong Sa Kang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sa Kang
+last_name: Hong
 
 # Status emoji
 status:
