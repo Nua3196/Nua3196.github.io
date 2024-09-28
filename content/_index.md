@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: sam-schooler-E9aetBe2w40_unsplash.jpg
           filters:
             brightness: 1.0
           size: cover
