@@ -21,15 +21,15 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: pero-kalimero-9BJRGlqoIUk-unsplash.jpg
           filters:
             brightness: 1.0
-          size: cover
+          size: contain
           position: center
           parallax: false
+        text_color_light: false
   - block: markdown
     content:
       title: '📚 My Research'
