@@ -26,10 +26,10 @@ sections:
           filename: pero-kalimero-9BJRGlqoIUk-unsplash.jpg
           filters:
             brightness: 1.0
-          size: contain
+          size: cover
           position: center
           parallax: false
-        text_color_light: false
+          text_color_light: false
   - block: markdown
     content:
       title: '📚 My Research'
