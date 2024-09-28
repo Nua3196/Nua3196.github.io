@@ -7,7 +7,7 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
+  - name: 수강과목
     url: /#papers
     weight: 11
   - name: Talks
@@ -19,9 +19,9 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Projects
+  - name: 프로젝트
     url: projects/
     weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40
+  # - name: Teaching
+  #   url: teaching/
+  #   weight: 40
