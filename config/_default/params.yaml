@@ -6,8 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: sky
-  theme_default: light
+  color: green
 
 # SEO
 marketing:
