@@ -29,7 +29,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  {style="color: red"}
+  "{style="color: red"}"
   - block: markdown
     content:
       title: '📚 My Research'
