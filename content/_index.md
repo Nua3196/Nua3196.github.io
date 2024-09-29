@@ -13,6 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      {style="color: DimGray"}
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
@@ -29,7 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-    {style="color: DimGray"}
   - block: markdown
     content:
       title: '📚 My Research'
