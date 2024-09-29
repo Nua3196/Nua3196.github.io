@@ -184,3 +184,4 @@ awards:
 ## About Me
 
 전북대학교 컴퓨터공학부에 재학중인 홍사강입니다.
+{style="color: red"}
