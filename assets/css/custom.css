@@ -1,15 +1,19 @@
-.portrait-title {
-    color: blue;
+#section-resume-biography-3 .portrait-title {
+    color: blue !important;
 }
 
-.network-icon {
-    color: red;
+#section-resume-biography-3 .network-icon {
+    color: red !important;
 }
 
-.bio-text {
+#section-resume-biography-3 .bio-text {
     color: green;
 }
 
 #about-me {
     color: yellow;
+}
+
+#section-resume-biography-3 .grid {
+    color: purple;
 }
