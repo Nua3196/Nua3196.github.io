@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: '전북대학교'
-    description: '전북대학교 컴퓨터공학부 22학번 홍사강의 자기소개 페이지입니다. 2024년 2학기 웹서비스설계 과목의 과제로 제작되었습니다.'
+    description: '전북대 홍사강의 자기소개 페이지입니다. 2024년 2학기 웹서비스설계 과목의 과제로 제작되었습니다.'
     twitter: 'ha_Dah913'
   analytics:
     google_analytics: ''
@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'google-site-verification=BCGZIbIwwB51xO4Jcbs-vKP9azmk8BgnYHOp62inYz0'
     baidu: ''
 
 # Site header
