@@ -30,14 +30,14 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: custom/envelope-regular
     url: 'mailto:rllove0405@jbnu.ac.kr'
     label: rllove0405@jbnu.ac.kr
-  - icon: brands/instagram
+  - icon: custom/instagram-brands-solid
     url: https://www.instagram.com/hada3679/
-  - icon: brands/github
+  - icon: custom/github-brands-solid
     url: https://github.com/Nua3196
-  - icon: brands/linkedin
+  - icon: custom/linkedin-brands-solid
     url: https://www.linkedin.com/in/%EC%82%AC%EA%B0%95-%ED%99%8D-166a9a306/
 
 interests:
@@ -112,7 +112,7 @@ skills:
       - name: Python
         description: ''
         percent: 60
-        icon: custom/python
+        icon: custom/python-brands-solid
       - name: C
         description: ''
         percent: 50
@@ -124,7 +124,7 @@ skills:
       - name: Java
         description: ''
         percent: 60
-        icon: custom/java
+        icon: custom/java-brands-solid
       - name: SQL
         description: ''
         percent: 60
