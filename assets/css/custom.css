@@ -1,3 +1,15 @@
 .portrait-title {
-    color: blue !important;
+    color: blue;
+}
+
+.network-icon {
+    color: red;
+}
+
+.bio-text {
+    color: green;
+}
+
+#about-me {
+    color: yellow;
 }
