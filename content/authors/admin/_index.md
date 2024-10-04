@@ -113,7 +113,7 @@ skills:
       - name: Python
         description: ''
         percent: 60
-        icon: custom/python
+        icon: devicon/python-plain
       - name: C
         description: ''
         percent: 50
