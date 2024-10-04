@@ -11,11 +11,21 @@ main:
     url: experience/
     weight: 20
   - name: 프로젝트
+    identifier: projects
     url: projects/
     weight: 30
+  - name: 전공
+    parent: projects
+    url: projects/cs
+    weight: 10
+  - name: 그 외
+    parent: projects
+    url: projects/etc
+    weight: 11
   - name: 수강과목
     url: courses/
     weight: 40
   - name: 여가
+    identifier: others
     url: others/
     weight: 50
