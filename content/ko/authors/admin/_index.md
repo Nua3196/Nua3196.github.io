@@ -151,6 +151,7 @@ awards:
     summary: |
       2023년 6월부터 8월까지 자율적으로 스터디와 회의, 개발 일정을 계획하여 큰사람 프로젝트 관리 어플리케이션을 개발하는 활동을 진행했습니다.
     button:
+        icon: ''
         text: 발표 자료 보기
         label: 발표 자료 보기
         url: uploads/3Mfinal.pdf
