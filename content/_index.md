@@ -21,7 +21,6 @@ sections:
     design:
       css_class: dark
       background:
-        text_color_light: false
         image:
           # Add your image background to `assets/media/`.
           filename: pero-kalimero-9BJRGlqoIUk-unsplash.jpg
