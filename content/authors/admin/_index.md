@@ -167,7 +167,7 @@ awards:
     summary: |
       2024년 1월부터 2월까지 당근, 금융결제원의 기업 정보를 조사하고 현직자 분들을 인터뷰해 기업과 직무에 대해 조사하는 활동을 진행했습니다.
   - title: 제1회 오픈소스 SW 아이디어 해커톤 대상
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://youtu.be/sT4eoPyNrqY
     date: '2023-12-03'
     awarder: 후추수정⭐️
     icon: ''
@@ -175,12 +175,15 @@ awards:
       2023년 2학기에 진행된 해커톤에 참여해 실시간 모바일 화면번역 어플리케이션을 개발했습니다. 프론트엔드 역할을 수행했습니다. 
   - title: 2023 전북대 하계 자기설계 도전활동 공모전 우수상
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
     date: '2023-08-23'
     awarder: 3M
     icon: ''
     summary: |
       2023년 6월부터 8월까지 자율적으로 스터디와 회의, 개발 일정을 계획하여 큰사람 프로젝트 관리 어플리케이션을 개발하는 활동을 진행했습니다.
+    button:
+        text: 발표 자료 보기
+        label: 발표 자료 보기
+        url: uploads/3Mfinal.pdf
 ---
 
 ## About Me
