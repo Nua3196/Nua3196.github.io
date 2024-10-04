@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "전북대 홍사강"
 date: 2022-10-24
 type: landing
 
@@ -25,7 +25,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: pero-kalimero-9BJRGlqoIUk-unsplash.jpg
           filters:
-            brightness: 0.8
+            brightness: 1.0
           size: cover
           position: center
           parallax: false
