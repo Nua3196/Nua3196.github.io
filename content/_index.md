@@ -24,7 +24,7 @@ sections:
       background:
         image:
           # Add your image background to `assets/media/`.
-          filename: prifile.jpg
+          filename: profile.jpg
           filters:
             brightness: 1.0
           size: cover
