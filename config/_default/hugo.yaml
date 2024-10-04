@@ -12,7 +12,7 @@ baseURL: https://nua3196.github.io/
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: kr
+defaultContentLanguage: ko
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
