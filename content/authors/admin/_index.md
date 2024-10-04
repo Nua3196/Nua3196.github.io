@@ -31,9 +31,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    text: rllove0405@jbnu.ac.kr
     url: 'mailto:rllove0405@jbnu.ac.kr'
-    label: E-mail Me
+    label: rllove0405@jbnu.ac.kr
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
