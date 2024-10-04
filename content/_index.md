@@ -10,6 +10,7 @@ design:
 
 sections:
   - block: resume-biography-3
+    css_class: portrait-title
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -19,7 +20,6 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: portrait_title
       background:
         image:
           # Add your image background to `assets/media/`.
