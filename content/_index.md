@@ -20,7 +20,7 @@ sections:
         url: uploads/resume.pdf
     design:
       # css_class: dark
-      css_sytle: custom
+      # css_sytle: custom
       css_class: portrait-title
       background:
         image:
