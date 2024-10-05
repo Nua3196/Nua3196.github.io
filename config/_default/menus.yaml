@@ -17,7 +17,7 @@ main:
     weight: 10
   - name: 프로그래밍 언어
     parent: experience
-    url: ko/experience/#skil
+    url: ko/experience/#skils
     weight: 11
   - name: 대회
     parent: experience
