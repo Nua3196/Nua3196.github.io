@@ -34,8 +34,8 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    show_translations: true
-    hide_language_name: false
+    # show_translations: true
+    # hide_language_name: false
     logo:
       text: "전북대 홍사강"
 
