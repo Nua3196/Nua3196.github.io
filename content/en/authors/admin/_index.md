@@ -51,7 +51,7 @@ education:
     date_start: 2022-03-01
     # date_end: 2020-12-31
     summary: |
-      Credits earned: 111.5
+      Credits earned: 111.5  
       GPA: 4.38/4.5
       
       Courses taken:
