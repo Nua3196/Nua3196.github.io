@@ -32,11 +32,16 @@ sections:
     content:
       title: 대회
       username: admin
-  - block: resume-awards
+  - block: collection
     id: etc
     content:
-      title: 기타
-      username: admin
+      title: 기타 활동
+      filters:
+        folders:
+          - etc
+    design:
+      columns: '3'
+      view: card
   - block: resume-languages
     content:
       title: Languages
