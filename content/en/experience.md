@@ -1,5 +1,5 @@
 ---
-title: '경험'
+title: 'Experience'
 date: 2024-10-05
 type: landing
 
@@ -23,19 +23,19 @@ sections:
     id: skils
     content:
       align: center
-      title: 프로그래밍 언어
+      title: Programming Languages
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-awards
     id: award
     content:
-      title: 대회
+      title: Awards
       username: admin
   - block: collection
     id: etc
     content:
-      title: 기타 활동
+      title: Etc
       filters:
         folders:
           - etc

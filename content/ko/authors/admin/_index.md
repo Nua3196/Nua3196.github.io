@@ -78,7 +78,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 프로그래밍 언어
     items:
       - name: Python
         description: ''
@@ -118,11 +118,11 @@ skills:
   #       icon: camera
 
 languages:
-  - name: Korean
+  - name: 한국어
     percent: 100
-  - name: English
+  - name: 영어
     percent: 65
-  - name: German
+  - name: 독일어
     percent: 15
 
 # Awards.

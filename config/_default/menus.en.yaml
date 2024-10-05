@@ -7,21 +7,29 @@ main:
   - name: Profile
     url: en/
     weight: 10
-  - name: Experience
+  - name: Experiences
+    identifier: experience
     url: en/experience/
     weight: 20
+  - name: Education & Experience
+    parent: experience
+    url: en/experience/#timeline
+    weight: 10
+  - name: Programming Languages
+    parent: experience
+    url: en/experience/#skils
+    weight: 11
+  - name: Awards
+    parent: experience
+    url: en/experience/#award
+    weight: 12
+  - name: Etc
+    parent: experience
+    url: en/experience/#etc
+    weight: 13
   - name: Projects
-    identifier: projects
     url: en/projects/
     weight: 30
-  - name: CS
-    parent: projects
-    url: en/projects/cs
-    weight: 10
-  - name: Etc
-    parent: projects
-    url: en/projects/etc
-    weight: 11
   - name: Courses taken
     url: en/courses/
     weight: 40

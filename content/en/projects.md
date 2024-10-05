@@ -1,5 +1,5 @@
 ---
-title: '프로젝트'
+title: 'Projects'
 date: 2024-05-19
 type: landing
 
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: 프로젝트
-      text: 수업 및 대회에서 수행한 프로젝트들입니다.
+      title: Projects
+      text: These are the projects I have completed in classes and competitions.
       filters:
         folders:
           - projects

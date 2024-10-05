@@ -1,5 +1,5 @@
 ---
-title: '수강과목'
+title: 'Courses taken'
 date: 2024-10-05
 type: landing
 
@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      title: 수강과목
+      title: Courses taken
     design:
       # Hugo date format
       date_format: 'January 2006'
