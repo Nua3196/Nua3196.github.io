@@ -79,6 +79,7 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: 프로그래밍 언어
+    align: center
     items:
       - name: Python
         description: ''
