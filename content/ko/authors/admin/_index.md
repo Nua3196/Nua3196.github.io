@@ -46,7 +46,7 @@ interests:
   - AIoT
 
 education:
-  - area: 컴퓨터공학
+  - area: 컴퓨터공학(재학)
     institution: 전북대학교 컴퓨터인공지능학부
     date_start: 2022-03-01
     # date_end: 2020-12-31

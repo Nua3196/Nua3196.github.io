@@ -1,4 +1,4 @@
-# [전북대 홍사강](https://nua3196.github.io/)
+# [2024-2 WSD 자기소개 페이지 홍사강](https://nua3196.github.io/)
 
 [![Screenshot](https://github.com/user-attachments/assets/679b1b46-8da2-4240-9d74-7c7988fd2a53)](https://nua3196.github.io/ko/)
 
