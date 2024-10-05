@@ -10,12 +10,25 @@ design:
 # Page sections
 sections:
   - block: collection
+    id: cs
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: 전공
+      text: 전공과 관련된 프로젝트들입니다.
       filters:
         folders:
-          - project
+          - project/cs
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+  - block: collection
+    id: etc
+    content:
+      title: 그 외
+      text: 전공과 관련없는 프로젝트들입니다.
+      filters:
+        folders:
+          - project/etc
     design:
       view: article-grid
       fill_image: false
