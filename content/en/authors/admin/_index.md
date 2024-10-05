@@ -62,7 +62,7 @@ education:
     button:
       icon: custom/graduation-cap-solid
       text: 'all courses'
-      url: https://nua3196.github.io/ko/courses/
+      url: https://nua3196.github.io/en/courses/
 work:
   - position: Work Scholarship Student
     company_name: Jeonbuk National University Alumni Association

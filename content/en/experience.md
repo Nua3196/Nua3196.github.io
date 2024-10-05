@@ -22,11 +22,11 @@ sections:
   - block: resume-skills
     id: skils
     content:
-      align: center
       title: Programming Languages
       username: admin
     design:
       show_skill_percentage: false
+      columns: '1'
   - block: resume-awards
     id: award
     content:
