@@ -5,27 +5,27 @@
 
 main:
   - name: Profile
-    url: /
+    url: en/
     weight: 10
   - name: Experience
-    url: experience/
+    url: en/experience/
     weight: 20
   - name: Projects
     identifier: projects
-    url: projects/
+    url: en/projects/
     weight: 30
   - name: CS
     parent: projects
-    url: projects/cs
+    url: en/projects/cs
     weight: 10
   - name: Etc
     parent: projects
-    url: projects/etc
+    url: en/projects/etc
     weight: 11
   - name: Courses taken
-    url: courses/
+    url: en/courses/
     weight: 40
   - name: Others
     identifier: others
-    url: others/
+    url: en/others/
     weight: 50

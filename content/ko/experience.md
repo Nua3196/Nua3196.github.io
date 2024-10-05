@@ -20,7 +20,8 @@ sections:
       is_education_first: true
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      align: center
+      title: Skills
       username: admin
     design:
       show_skill_percentage: false
