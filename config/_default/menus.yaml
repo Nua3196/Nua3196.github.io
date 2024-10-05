@@ -16,11 +16,11 @@ main:
     weight: 30
   - name: 전공
     parent: projects
-    url: ko/projects/cs
+    url: ko/projects/#cs
     weight: 10
   - name: 그 외
     parent: projects
-    url: ko/projects/etc
+    url: ko/projects/#etc
     weight: 11
   - name: 수강과목
     url: ko/courses/
