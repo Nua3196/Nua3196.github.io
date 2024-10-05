@@ -33,8 +33,8 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
-    # show_translations: true
+    show_theme_chooser: false
+    show_translations: false
     # hide_language_name: false
     logo:
       text: "전북대 홍사강"
