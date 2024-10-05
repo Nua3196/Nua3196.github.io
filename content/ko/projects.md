@@ -16,7 +16,7 @@ sections:
       text: 전공과 관련된 프로젝트들입니다.
       filters:
         folders:
-          - ko
+          - projects
     design:
       view: article-grid
       fill_image: false
@@ -28,7 +28,7 @@ sections:
       text: 전공과 관련없는 프로젝트들입니다.
       filters:
         folders:
-          - ko
+          - projects
     design:
       view: article-grid
       fill_image: false
