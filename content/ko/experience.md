@@ -27,7 +27,7 @@ sections:
     design:
       show_skill_percentage: false
       columns: '1'
-  - block: resume-awards
+  - block: custom-resume-awards
     id: award
     content:
       title: 대회
