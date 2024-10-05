@@ -11,6 +11,7 @@ design:
 # Page sections
 sections:
   - block: resume-experience
+    id: timeline
     content:
       username: admin
     design:
@@ -19,15 +20,22 @@ sections:
       # Education or Experience section first?
       is_education_first: true
   - block: resume-skills
+    id: skils
     content:
       align: center
-      title: Skills
+      title: 프로그래밍 언어
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-awards
+    id: award
     content:
-      title: Awards
+      title: 대회
+      username: admin
+  - block: resume-awards
+    id: etc
+    content:
+      title: 기타
       username: admin
   - block: resume-languages
     content:

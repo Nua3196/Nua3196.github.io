@@ -10,22 +10,10 @@ design:
 # Page sections
 sections:
   - block: collection
-    id: cs
+    id: programming
     content:
-      title: 전공
-      text: 전공과 관련된 프로젝트들입니다.
-      filters:
-        folders:
-          - projects
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
-  - block: collection
-    id: etc
-    content:
-      title: 그 외
-      text: 전공과 관련없는 프로젝트들입니다.
+      title: 프로젝트
+      text: 수업 및 대회에서 수행한 프로젝트들입니다.
       filters:
         folders:
           - projects

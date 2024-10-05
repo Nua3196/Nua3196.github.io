@@ -27,18 +27,17 @@ marketing:
     baidu: ''
 
 # Site header
-cascade:
-  header:
-    navbar:
-      enable: true
-      blox: "navbar"
-      fixed_to_top: true
-      show_search: true
-      show_theme_chooser: false
-      show_translations: false
-      # hide_language_name: false
-      logo:
-        text: "전북대 홍사강"
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    show_translations: true
+    hide_language_name: false
+    logo:
+      text: "전북대 홍사강"
 
 # Site footer
 footer:

@@ -62,7 +62,7 @@ education:
     button:
       icon: custom/graduation-cap-solid
       text: '전체 수강과목'
-      url: courses/
+      url: https://nua3196.github.io/ko/courses/
 work:
   - position: 근로장학생
     company_name: 전북대학교 총동창회
@@ -71,6 +71,7 @@ work:
     date_start: 2023-03-01
     date_end: 2023-08-31
     summary: |
+      수행업무:
       - 총동창회 홈페이지 관리
       - 사무보조
 
