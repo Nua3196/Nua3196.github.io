@@ -5,27 +5,27 @@
 
 main:
   - name: 프로필
-    url: /
+    url: ko/
     weight: 10
   - name: 경험
-    url: experience/
+    url: ko/experience/
     weight: 20
   - name: 프로젝트
     identifier: projects
-    url: projects/
+    url: ko/projects/
     weight: 30
   - name: 전공
     parent: projects
-    url: projects/cs
+    url: ko/projects/cs
     weight: 10
   - name: 그 외
     parent: projects
-    url: projects/etc
+    url: ko/projects/etc
     weight: 11
   - name: 수강과목
-    url: courses/
+    url: ko/courses/
     weight: 40
   - name: 여가
     identifier: others
-    url: others/
+    url: ko/others/
     weight: 50
