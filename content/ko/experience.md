@@ -10,7 +10,7 @@ design:
       # Add your image background to `assets/media/`.
       filename: experiences.jpg
       filters:
-        brightness: 0.9
+        brightness: 0.3
       size: cover
       position: center
       parallax: false
