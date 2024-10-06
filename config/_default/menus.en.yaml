@@ -22,8 +22,8 @@ main:
   - name: Education & Work
     url: en/experience/
     weight: 30
-  - name: 경험
-    url: ko/timeline/
+  - name: Other experience
+    url: en/timeline/
     weight: 40
   - name: 여가
     identifier: others
