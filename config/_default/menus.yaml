@@ -5,33 +5,25 @@
 
 main:
   - name: 프로필
+    identifier: profile
     url: ko/
     weight: 10
-  - name: 경험
-    identifier: experience
-    url: ko/experience/
+  - name: 요약
+    parent: profile
+    url: ko/#summary
+    weight: 11
+  - name: 수상경력
+    parent: profile
+    url: ko/#award
+    weight: 12
+  - name: 프로젝트
+    url: ko/#project
     weight: 20
   - name: 학력 및 경력
-    parent: experience
-    url: ko/experience/#timeline
-    weight: 10
-  - name: 프로그래밍 언어
-    parent: experience
-    url: ko/experience/#skils
-    weight: 11
-  - name: 대회
-    parent: experience
-    url: ko/experience/#award
-    weight: 12
-  - name: 기타
-    parent: experience
-    url: ko/experience/#etc
-    weight: 13
-  - name: 프로젝트
-    url: ko/projects/
+    url: ko/experience/
     weight: 30
-  - name: 수강과목
-    url: ko/courses/
+  - name: 경험
+    url: ko/timeline/
     weight: 40
   - name: 여가
     identifier: others

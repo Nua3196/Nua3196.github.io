@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android | 전북대 홍사강</title>
+    <link>http://localhost:1313/ko/tags/android/</link>
+      <atom:link href="http://localhost:1313/ko/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <description>Android</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko</language><lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/sharing.png</url>
+      <title>Android</title>
+      <link>http://localhost:1313/ko/tags/android/</link>
+    </image>
+    
+    <item>
+      <title>후추수정</title>
+      <link>http://localhost:1313/ko/project/pepper/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/project/pepper/</guid>
+      <description>&lt;p&gt;모바일프로그래밍 수업 기말 프로젝트의 일환으로 실시간 화면 번역 어플리케이션을 개발했습니다. 저는 화면에 떠다니는 버튼을 만드는 등, 주로 프론트엔드 개발자로 참여했습니다.
+같은 시기 진행된 제1회 오픈소스 SW 해커톤에 참여하여 완성하였고 대상을 수상했습니다.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

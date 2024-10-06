@@ -10,6 +10,7 @@ design:
 
 sections:
   - block: resume-biography-3
+    id: summary
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -25,4 +26,43 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: collection
+    id: project
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      columns: 3
+  - block: resume-awards
+    id: award
+    content:
+      title: Awards
+      username: admin
+  - block: collection
+    id: etc
+    content:
+      title: Other experience
+      filters:
+        folders:
+          - etc
+    design:
+      columns: 1
+      view: card
+  - block: resume-skills
+    id: skils
+    content:
+      title: Pragramming Languages
+      username: admin
+    design:
+      show_skill_percentage: false
+      columns: '1'
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---
+
+{{< carousel items="1" height="500" unit="px" duration="7000" >}}

@@ -1,5 +1,5 @@
 ---
-title: 기타
+title: 기타 활동
 cms_exclude: true
 #url: talk
 
