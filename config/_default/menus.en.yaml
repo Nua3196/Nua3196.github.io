@@ -5,35 +5,27 @@
 
 main:
   - name: Profile
+    identifier: profile
     url: en/
     weight: 10
-  - name: Experiences
-    identifier: experience
-    url: en/experience/
-    weight: 20
-  - name: Education & Experience
-    parent: experience
-    url: en/experience/#timeline
-    weight: 10
-  - name: Programming Languages
-    parent: experience
-    url: en/experience/#skils
+  - name: 요약
+    parent: profile
+    url: ko/#summary
     weight: 11
-  - name: Awards
-    parent: experience
-    url: en/experience/#award
+  - name: 수상경력
+    parent: profile
+    url: ko/#award
     weight: 12
-  - name: Etc
-    parent: experience
-    url: en/experience/#etc
-    weight: 13
-  - name: Projects
-    url: en/projects/
+  - name: 프로젝트
+    url: ko/#project
+    weight: 20
+  - name: 학력 및 경력
+    url: ko/experience/
     weight: 30
-  - name: Courses taken
-    url: en/courses/
+  - name: 경험
+    url: ko/timeline/
     weight: 40
-  - name: Others
+  - name: 여가
     identifier: others
-    url: en/others/
+    url: ko/others/
     weight: 50
