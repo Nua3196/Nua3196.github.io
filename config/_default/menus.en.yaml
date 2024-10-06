@@ -16,8 +16,8 @@ main:
     parent: profile
     url: en/#award
     weight: 12
-  - name: 프로젝트
-    url: ko/#project
+  - name: Projects
+    url: en/#project
     weight: 20
   - name: 학력 및 경력
     url: ko/experience/
