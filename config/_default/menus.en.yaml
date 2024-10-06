@@ -8,9 +8,9 @@ main:
     identifier: profile
     url: en/
     weight: 10
-  - name: 요약
+  - name: summary
     parent: profile
-    url: ko/#summary
+    url: en/#summary
     weight: 11
   - name: 수상경력
     parent: profile
