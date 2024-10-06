@@ -8,13 +8,13 @@ main:
     identifier: profile
     url: en/
     weight: 10
-  - name: summary
+  - name: Summary
     parent: profile
     url: en/#summary
     weight: 11
-  - name: 수상경력
+  - name: Awards
     parent: profile
-    url: ko/#award
+    url: en/#award
     weight: 12
   - name: 프로젝트
     url: ko/#project
