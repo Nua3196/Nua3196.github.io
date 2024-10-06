@@ -25,7 +25,7 @@ main:
   - name: Other experience
     url: en/timeline/
     weight: 40
-  - name: 여가
+  - name: Others
     identifier: others
-    url: ko/others/
+    url: en/others/
     weight: 50
