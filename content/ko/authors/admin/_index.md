@@ -141,7 +141,7 @@ awards:
     summary: |
       2023년 2학기에 진행된 해커톤에 참여해 실시간 모바일 화면번역 어플리케이션을 개발했습니다. 프론트엔드 역할을 수행했습니다. 
   - title: 2023 전북대 하계 자기설계 도전활동 공모전 우수상
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    url: https://bead-hornet-56a.notion.site/2023-06-08-e6f6e475357f42eab892f3018fb285da
     date: '2023-08-23'
     awarder: 3M
     icon: ''

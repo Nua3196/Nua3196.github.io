@@ -34,8 +34,8 @@ sections:
         folders:
           - project
     design:
-      view: article-grid
-      columns: 3
+      view: community/custom_card
+      columns: 1
   - block: resume-awards
     id: award
     content:
