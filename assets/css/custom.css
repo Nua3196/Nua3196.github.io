@@ -18,6 +18,10 @@
     color: #686e8b;
 }
 
+.cloud #section-markdown .text-3xl{
+    color: #42475d !important;
+}
+
 /* #summary .portrait-title {
     color: #42475d !important;
 }

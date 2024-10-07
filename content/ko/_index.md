@@ -64,5 +64,3 @@ sections:
       title: 언어
       username: admin
 ---
-
-{{< carousel items="1" height="500" unit="px" duration="7000" >}}
