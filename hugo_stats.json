@@ -49,7 +49,6 @@
       "[&:not(dark)]:hidden",
       "[hyphens:auto]",
       "absolute",
-      "active",
       "article",
       "article-container",
       "article-date",

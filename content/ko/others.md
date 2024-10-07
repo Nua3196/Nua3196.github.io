@@ -29,6 +29,9 @@ sections:
       columns: '1'
   - block: markdown
     content:
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'
       title: '여행'
       subtitle: ''
       text: |-

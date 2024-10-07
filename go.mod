@@ -8,9 +8,3 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20241006005725-33edab58829a
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20241006005725-33edab58829a
 )
-
-require (
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics v0.1.2 // indirect
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1 // indirect
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2 // indirect
-)

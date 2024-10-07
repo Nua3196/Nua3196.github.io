@@ -34,7 +34,7 @@ sections:
         folders:
           - project
     design:
-      view: community/custom_card
+      view: card
       columns: 1
   - block: resume-awards
     id: award
