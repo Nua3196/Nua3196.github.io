@@ -16,7 +16,7 @@ sections:
       username: admin
       text: ""
     design:
-      css_class: dark
+      css_class: cloud
       background:
         image:
           # Add your image background to `assets/media/`.

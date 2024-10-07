@@ -1,4 +1,20 @@
-#summary .portrait-title {
+.cloud #profile{
+    color: #42475d !important;
+}
+
+.cloud #about-me{
+    color: #42475d !important;
+}
+
+.cloud .bio-text{
+    color: #686e8b;
+}
+
+.cloud .grid {
+    color: #686e8b;
+}
+
+/* #summary .portrait-title {
     color: #42475d !important;
 }
 
@@ -16,4 +32,4 @@
 
 #summary .grid {
     color: #686e8b;
-}
+} */
