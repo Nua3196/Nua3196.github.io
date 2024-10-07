@@ -43,5 +43,3 @@ sections:
     design:
       columns: '1'
 ---
-
-{{< carousel items="1" height="500" unit="px" duration="7000" >}}

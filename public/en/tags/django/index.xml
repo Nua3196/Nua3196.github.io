@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Django | 전북대 홍사강</title>
+    <link>http://localhost:1313/en/tags/django/</link>
+      <atom:link href="http://localhost:1313/en/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <description>Django</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/sharing.png</url>
+      <title>Django</title>
+      <link>http://localhost:1313/en/tags/django/</link>
+    </image>
+    
+    <item>
+      <title>KEUNSARAM Project management application</title>
+      <link>http://localhost:1313/en/project/thebelt/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/thebelt/</guid>
+      <description>&lt;p&gt;In the summer of 2023, we participated in our own design activities and won the top prize.
+Implementation goals, study configuration, implementation configuration, etc. in situations where there is no prior knowledge of Android app development, crawling, and API.
+Everyone planned and carried out the project themselves.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

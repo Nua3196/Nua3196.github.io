@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Class | 전북대 홍사강</title>
+    <link>http://localhost:1313/en/tags/class/</link>
+      <atom:link href="http://localhost:1313/en/tags/class/index.xml" rel="self" type="application/rss+xml" />
+    <description>Class</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/sharing.png</url>
+      <title>Class</title>
+      <link>http://localhost:1313/en/tags/class/</link>
+    </image>
+    
+    <item>
+      <title>hu-chu-su-jeong⭐️</title>
+      <link>http://localhost:1313/en/project/pepper/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/pepper/</guid>
+      <description>&lt;p&gt;As part of the final project for my mobile programming class, I developed a real-time screen translation application. I mainly participated as a front-end developer, including creating buttons that float on the screen.
+I participated in and completed the 1st Open Source SW Hackathon held at the same time and won the grand prize.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>puzzle room escape game</title>
+      <link>http://localhost:1313/en/project/roomescape/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/roomescape/</guid>
+      <description>&lt;p&gt;I developed a puzzle room escape game as a final project for an object-oriented programming class. I was in charge of the NemoLogic game.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

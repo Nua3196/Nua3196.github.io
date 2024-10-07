@@ -1,9 +1,0 @@
-images: 
-  - image: /assets/media/experience.jpg
-    content_html: "1"
-  - image: /assets/media/projects.jpg
-    content_html: "2"
-  - image: /assets/media/courses.jpg
-    content_html: "3"
-  - image: /assets/media/others.jpg
-    content_html: "4"
