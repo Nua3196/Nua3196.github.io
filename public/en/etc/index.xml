@@ -5,7 +5,7 @@
     <link>http://localhost:1313/en/etc/</link>
       <atom:link href="http://localhost:1313/en/etc/index.xml" rel="self" type="application/rss+xml" />
     <description>Etc</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/sharing.png</url>
       <title>Etc</title>
@@ -13,26 +13,29 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://localhost:1313/en/etc/etc/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/etc/etc/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s 
- feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including 
- such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>독토리 Doktori</title>
+      <link>http://localhost:1313/en/etc/doktori/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/etc/doktori/</guid>
+      <description>&lt;p&gt;As a team, we read and discussed two books, &lt;Thus Spoke Zarathustra&gt; and &amp;lt;Guns, Germs, and Steel&amp;gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NVIDIA current employee interview</title>
+      <link>http://localhost:1313/en/etc/interview/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/etc/interview/</guid>
+      <description>&lt;p&gt;We met with current employees working at NVIDIA and conducted activities to learn about system software engineers and the differences between domestic and American companies. The results of the activities were shared through the Chonbuk National University department website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Becoming an Expert in Corporate Roles</title>
+      <link>http://localhost:1313/en/etc/expert/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/etc/expert/</guid>
+      <description>&lt;p&gt;we met current employees at Carrot and Korea Financial Telecommunications and Clearings Institute and conducted activities to learn about their jobs and companies.&lt;/p&gt;
 </description>
     </item>
     

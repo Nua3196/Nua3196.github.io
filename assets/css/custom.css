@@ -10,34 +10,14 @@
     color: #42475d;
 }
 
-.cloud .bio-text{
-    color: #686e8b;
-}
-
 .cloud .grid {
     color: #686e8b;
 }
 
-.cloud .text-3xl #section-markdown{
+.cloud .text-3xl{
     color: #42475d !important;
 }
 
-/* #summary .portrait-title {
-    color: #42475d !important;
-}
-
-#summary .network-icon {
-    color: #42475d !important;
-}
-
-#summary .bio-text {
+.cloud .prose {
     color: #686e8b;
 }
-
-#about-me {
-    color: #42475d;
-}
-
-#summary .grid {
-    color: #686e8b;
-} */

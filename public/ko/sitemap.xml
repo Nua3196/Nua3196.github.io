@@ -19,18 +19,58 @@
     <loc>http://localhost:1313/ko/tags/android/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/android/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/android/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/award/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/award/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/award/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/class/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/class/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/class/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/java/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/java/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/java/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/python/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
@@ -63,18 +103,58 @@
     <loc>http://localhost:1313/ko/project/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/project/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/project/pepper/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/project/pepper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/project/pepper/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/discussion/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/discussion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/discussion/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/reading/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/reading/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/reading/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/etc/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
@@ -93,46 +173,156 @@
     <loc>http://localhost:1313/ko/etc/doktori/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/etc/doktori/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/etc/doktori/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/crawling/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/crawling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/crawling/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/django/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/django/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/django/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/restapi/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/restapi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/restapi/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/project/thebelt/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/project/thebelt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/project/thebelt/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/interview/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/interview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/tags/interview/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/etc/interview/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/etc/interview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/etc/interview/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/project/roomescape/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/project/roomescape/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/project/roomescape/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/etc/expert/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/etc/expert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/etc/expert/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/timeline/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/timeline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/timeline/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/others/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/others/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/others/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
@@ -150,6 +340,16 @@
   </url><url>
     <loc>http://localhost:1313/ko/authors/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/authors/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/publication_types/</loc>
     <changefreq>weekly</changefreq>
