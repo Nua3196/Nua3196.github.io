@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://nua3196.github.io/sitemap.xml
