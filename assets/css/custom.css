@@ -1,9 +1,13 @@
-.cloud #profile{
+.cloud .portrait-title{
+    color: #42475d !important;
+}
+
+.cloud .network-icon {
     color: #42475d !important;
 }
 
 .cloud #about-me{
-    color: #42475d !important;
+    color: #42475d;
 }
 
 .cloud .bio-text{
