@@ -93,7 +93,7 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 7000
       
-  - block: collection
+  - block: custom-collection
     id: goal
     content:
       title: 지향점
