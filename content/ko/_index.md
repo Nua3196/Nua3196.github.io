@@ -40,19 +40,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">학력 및 경력</span>
-        content: <span style="font-size:70%">학부 이수 현황 및 기타 경력을 소개합니다.</span>
-        align: center
-        background:
-          image:
-            filename: experiences.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:70%">캠프 및 교육</span>
-        content: <span style="font-size:70%">그동안 참여한 다양한 활동들입니다.</span>
+      - title: <span style="font-size:70%">기타 활동</span>
+        content: <span style="font-size:70%">캠프, 교육 등 그동안 참여한 다양한 활동들입니다.</span>
         align: center
         background:
           image:
