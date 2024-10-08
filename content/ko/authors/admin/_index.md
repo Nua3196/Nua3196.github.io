@@ -1,53 +1,44 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: 홍사강
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: '학부생'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💭
 
-# Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+Organizations/Affiliations
+organizations:
+- name: 전북대 컴퓨터인공지능학부
+  url: https://csai.jbnu.ac.kr/csai/index.do
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+  - 운영체제
+  - 보안
+  - AIoT
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+ courses:
+ - course: 컴퓨터공학(재학)
+   institution: 전북대학교 컴퓨터인공지능학부
+   year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: custom/envelope-regular
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: 'mailto:rllove0405@jbnu.ac.kr' # For a direct email link, use "mailto:test@example.org".
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
