@@ -36,7 +36,7 @@ sections:
     design:
       view: custom-three-card
       columns: '1'
-  - block: custom-rl-collection
+  - block: custom-lr-collection
     id: strength
     content:
       title: 강점
@@ -46,7 +46,7 @@ sections:
     design:
       columns: '1'
       view: showcase
-  - block: collection
+  - block: custom-rl-collection
     id: weakness
     content:
       title: 약점
