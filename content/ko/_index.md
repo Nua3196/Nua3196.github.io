@@ -3,6 +3,7 @@
 title: "전북대 홍사강"
 date: 2022-10-24
 type: landing
+show_date: false
 
 design:
   # Default section spacing
