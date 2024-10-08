@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: "전북대 홍사강"
 date: 2022-10-24
-type: widget_page
+type: landing
 
 design:
   # Default section spacing
