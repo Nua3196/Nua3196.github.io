@@ -30,16 +30,16 @@
         {{ partial "page_metadata_authors" $item }}
       </div>
       {{ end }}
-      <span>
+      <!-- <span>
         {{ partial "functions/get_event_dates" $item }}
-      </span>
+      </span> -->
       {{ with $item.Params.location }}
       <span class="middot-divider"></span>
       <span>{{ . }}</span>
       {{ end }}
     </div>
-    <!-- {{ else }}
-      {{ partial "page_metadata" (dict "page" $item "is_list" 1) }} -->
+    {{ else }}
+      {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
     {{ end }}
 
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
