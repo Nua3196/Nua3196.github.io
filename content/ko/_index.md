@@ -8,6 +8,8 @@ design:
   # Default section spacing
   spacing: "6rem"
 
+date_format: 2
+
 sections:
   - block: custom-biography
     id: summary
