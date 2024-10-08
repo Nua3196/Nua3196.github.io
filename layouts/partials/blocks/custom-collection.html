@@ -80,13 +80,15 @@
 
 {{ $columns := $block.design.columns | default "2" }}
 
-<!-- <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}"> -->
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
 
   {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
 
-  {{ range $index, $item := $query }}
-    {{ partial "functions/render_view" (dict "page" $block "item" . "view" ($block.design.view | default "compact") "index" $index) }}
-  {{end}}
+  <div class="row justify-content-center">
+    {{ range $index, $item := $query }}
+      {{ partial "functions/render_view" (dict "page" $block "item" . "view" ($block.design.view | default "compact") "index" $index) }}
+    {{end}}
+  </div>
 
   {{/* Archive link */}}
   {{ $show_archive_link := $block.content.archive.enable | default (gt $count $items_count) }}
