@@ -36,7 +36,7 @@ sections:
           image:
             filename: projects.jpg
             filters:
-              brightness: 0.4
+              brightness: 0.6
           position: center
           color: '#000'
 
@@ -47,7 +47,7 @@ sections:
           image:
             filename: experiences.jpg
             filters:
-              brightness: 0.4
+              brightness: 0.6
           position: center
           color: '#000'
 
@@ -58,7 +58,7 @@ sections:
           image:
             filename: explore.jpg
             filters:
-              brightness: 0.4
+              brightness: 0.6
           position: center
           color: '#000'
 
@@ -69,7 +69,7 @@ sections:
           image:
             filename: contests.jpg
             filters:
-              brightness: 0.4
+              brightness: 0.6
           position: center
           color: '#000'
 
@@ -80,7 +80,7 @@ sections:
           image:
             filename: others.jpg
             filters:
-              brightness: 0.4
+              brightness: 0.6
           position: center
           color: '#000'
 
