@@ -93,7 +93,7 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 7000
       
-  - block: custom-collection
+  - block: collection
     id: goal
     content:
       title: 지향점
@@ -102,7 +102,7 @@ sections:
           - goal
     design:
       view: card
-      columns: '2'
+      columns: '1'
   - block: collection
     id: strength
     content:
@@ -111,7 +111,7 @@ sections:
         folders:
           - strength
     design:
-      columns: 3
+      columns: '1'
       view: card
   - block: collection
     id: weakness
@@ -121,6 +121,6 @@ sections:
         folders:
           - weakness
     design:
-      columns: 3
+      columns: '1'
       view: card
 ---
