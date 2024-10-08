@@ -30,9 +30,9 @@
         {{ partial "page_metadata_authors" $item }}
       </div>
       {{ end }}
-      <span>
+      <!-- <span>
         {{ partial "functions/get_event_dates" $item }}
-      </span>
+      </span> -->
       {{ with $item.Params.location }}
       <span class="middot-divider"></span>
       <span>{{ . }}</span>
@@ -55,7 +55,7 @@
       </a>
     {{end}}
 
-    <div class="section-subheading article-title mb-1 mt-3">
+    <div sytle="text-align: justify;" class="section-subheading article-title mb-1 mt-3">
       {{ $item.Title }}
     </div>
 
