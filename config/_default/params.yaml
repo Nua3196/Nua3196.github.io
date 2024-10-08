@@ -15,6 +15,7 @@ appearance:
   theme_night: custom
   font: minimal
   font_size: L
+  color: sky
 
 # SEO
 
@@ -22,8 +23,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
+    org_name: '전북대'
+    description: '전북대 홍사강의 자기소개 페이지입니다. 2024년 2학기 웹서비스설계 과목의 과제로 제작되었습니다.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -40,8 +41,10 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: false
-    show_language: false
+    show_logo: true
+    logo:
+      text: "홍사강에 관해서"
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
