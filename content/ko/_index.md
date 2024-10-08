@@ -101,7 +101,7 @@ sections:
         folders:
           - goal
     design:
-      view: card
+      view: custom-card
       columns: '1'
   - block: collection
     id: strength
