@@ -1,14 +1,14 @@
 # Essentially Minimal theme but with constant home section bg color.
-name = "Starter Blog"
+name = "Sky"
 
 [light]
   # Primary
-  primary = "rgb(186 230 253)"
+  primary = "rgb(186, 230, 253)"
 
   # Menu
   menu_primary = "rgb(247, 247, 247)"
   menu_text = "#000"
-  menu_text_active = "rgb(3 105 161)"
+  menu_text_active = "rgb(3, 105, 161)"
   menu_title = "#000"
 
   # Home sections
