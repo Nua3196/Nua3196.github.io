@@ -45,7 +45,7 @@ sections:
           - strength
     design:
       columns: '1'
-      view: citation
+      view: showcase
   - block: collection
     id: weakness
     content:
