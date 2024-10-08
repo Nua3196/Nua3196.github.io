@@ -8,8 +8,6 @@ design:
   # Default section spacing
   spacing: "6rem"
 
-date_format: 2
-
 sections:
   - block: custom-biography
     id: summary
@@ -38,7 +36,7 @@ sections:
     design:
       view: custom-three-card
       columns: '1'
-  - block: collection
+  - block: custom-rl-collection
     id: strength
     content:
       title: 강점
