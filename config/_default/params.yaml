@@ -11,8 +11,8 @@
 # Appearance
 
 appearance:
-  theme_day: rose
-  theme_night: custom
+  theme_day: sky
+  theme_night: sky
   font: minimal
   font_size: L
 
@@ -41,8 +41,6 @@ header:
     enable: true
     align: r
     show_logo: true
-    brand:
-      text: "홍사강에 관해서"
     show_language: true
     show_day_night: true
     show_search: true
