@@ -38,8 +38,8 @@
       <span>{{ . }}</span>
       {{ end }}
     </div>
-    {{ else }}
-      {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+    <!-- {{ else }}
+      {{ partial "page_metadata" (dict "page" $item "is_list" 1) }} -->
     {{ end }}
 
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
@@ -55,7 +55,7 @@
       </a>
     {{end}}
 
-    <div sytle="text-align: center;" class="section-subheading article-title mb-1 mt-3">
+    <div style="text-align: center;" class="section-subheading article-title mb-1 mt-3">
       {{ $item.Title }}
     </div>
 
