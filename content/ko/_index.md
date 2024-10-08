@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: about.biography
+  - block: custom-about.biography
     id: summary
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
