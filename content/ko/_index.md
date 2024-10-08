@@ -55,7 +55,7 @@ sections:
           - weakness
     design:
       columns: '1'
-      view: card
+      view: showcase
   - block: experience
     content:
       title: 학력 및 경험
