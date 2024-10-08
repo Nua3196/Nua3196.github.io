@@ -56,13 +56,31 @@ ul.network-icon .big-icon {
 }
 
 .dark .portrait-title h3 {
-  color: #42475d;
+  color: rgba(255, 255, 255, 0.9);
   font-weight: bold;
 }
 
 .dark .portrait-title h2 {
+  color: #fff;
+  font-weight: bold;
+}
+
+.cloud .portrait-title h3 {
   color: #42475d;
   font-weight: bold;
+}
+
+.cloud .portrait-title h2 {
+  color: #42475d;
+  font-weight: bold;
+}
+
+.cloud .article-style {
+  color: #686e8b;
+}
+
+.cloud .row {
+  color: #686e8b
 }
 
 .home-section > .content {
