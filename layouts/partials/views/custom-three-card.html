@@ -39,7 +39,7 @@
       {{ end }}
     </div>
     {{ else }}
-      {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+      {{ partial "custom_page_metadata" (dict "page" $item "is_list" 1) }}
     {{ end }}
 
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
