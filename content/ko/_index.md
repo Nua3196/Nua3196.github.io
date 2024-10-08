@@ -102,7 +102,7 @@ sections:
           - goal
     design:
       view: custom-card
-      # columns: '1'
+      columns: '1'
   - block: collection
     id: strength
     content:
