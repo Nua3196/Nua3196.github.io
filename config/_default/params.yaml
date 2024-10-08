@@ -11,7 +11,7 @@
 # Appearance
 
 appearance:
-  theme_day: sky
+  theme_day: rose
   theme_night: custom
   font: minimal
   font_size: L
