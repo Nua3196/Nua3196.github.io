@@ -56,15 +56,13 @@
     {{end}}
 
     <div class="section-subheading article-title mb-1 mt-3">
-      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      {{ $item.Title }}
     </div>
 
     {{ with $summary }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-      <div class="article-style">
-        <p>{{.}}</p>
-      </div>
-    </a>
+    <div class="article-style">
+      <p>{{.}}</p>
+    </div>
     {{ end }}
 
     {{ if $has_attachments }}
