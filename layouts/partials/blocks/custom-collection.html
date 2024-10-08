@@ -84,7 +84,7 @@
 
   {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
 
-  <div class="row justify-content-center">
+  <div class="row justify-content-center custom-three">
     {{ range $index, $item := $query }}
       {{ partial "functions/render_view" (dict "page" $block "item" . "view" ($block.design.view | default "compact") "index" $index) }}
     {{end}}
