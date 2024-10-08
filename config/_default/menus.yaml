@@ -33,7 +33,7 @@ main:
     url: ko/others/reading
     weight: 12
   - name: Resumé
-    url: about/
+    url: ko/about
     weight: 60
 
 # main:
