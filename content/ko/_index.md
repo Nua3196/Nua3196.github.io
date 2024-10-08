@@ -101,7 +101,7 @@ sections:
           - strength
     design:
       columns: '1'
-      view: compact
+      view: citation
   - block: collection
     id: weakness
     content:
