@@ -94,40 +94,33 @@ sections:
       interval: 7000
       
   - block: collection
-    id: project
+    id: goal
     content:
-      title: 프로젝트
+      title: 지향점
       filters:
         folders:
-          - project
+          - goal
     design:
       view: card
-      columns: 2
-  # - block: resume-awards
-  #   id: award
-  #   content:
-  #     title: 대회
-  #     username: admin
+      columns: 3
   - block: collection
-    id: etc
+    id: strength
     content:
-      title: 기타 활동
+      title: 강점
       filters:
         folders:
-          - etc
+          - strength
     design:
-      columns: 1
+      columns: 3
       view: card
-  # - block: resume-skills
-  #   id: skils
-  #   content:
-  #     title: 프로그래밍 언어
-  #     username: admin
-  #   design:
-  #     show_skill_percentage: false
-  #     columns: '1'
-  # - block: resume-languages
-  #   content:
-  #     title: 언어
-  #     username: admin
+  - block: collection
+    id: weakness
+    content:
+      title: 약점
+      filters:
+        folders:
+          - weakness
+    design:
+      columns: 3
+      view: card
 ---
