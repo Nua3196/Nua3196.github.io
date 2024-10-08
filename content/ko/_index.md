@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: custom-about.biography
+  - block: custom-biography
     id: summary
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -29,63 +29,62 @@ sections:
   - block: slider
     content:
       slides:
-
-      - title: <span style="font-size:70%">Recruit</span>
-        content: <span style="font-size:70%">Interested in MacsLAB?</span>
+      - title: 프로젝트
+        content: 수업, 대회 등 다양한 상황에서 진행한 프로젝트들입니다.
         align: center
         background:
           image:
-            filename: profile.jpg
+            filename: projects.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
         link:
-          icon: user
-          icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
-          text-color: '#000'
-          url: contact
+          # icon: user
+          # icon_pack: fas
+          # text: <span style="font-size:60%">Join Us</span>
+          # text-color: '#000'
+          # url: /experiences
 
-      - title: <span style="font-size:70%">AI</span>
-        content: <span style="font-size:70%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발<span style="font-size:70%">
+      - title: 학력 및 경력
+        content: 학부 이수 현황 및 기타 경력을 소개합니다.
         align: center
         background:
           image:
-            filename: profile.jpg
+            filename: experiences.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Healthcare</span>
-        content: <span style="font-size:70%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
+      - title: 캠프 및 교육
+        content: 그동안 참여한 다양한 활동들입니다.
         align: center
         background:
           image:
-            filename: profile.jpg
+            filename: explore.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Mathematics</span>
-        content: <span style="font-size:70%">AI와 관련된 수학 및 최적화 이론 연구</span>
+      - title: 대회
+        content: 소정의 성과들을 기록해두었습니다.
         align: center
         background:
           image:
-            filename: profile.jpg
+            filename: contests.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">기반 기술을 활용한 Full-Stack 어플리케이션 개발</span>
+      - title: 여가
+        content: 제가 즐거움을 위해 하는 것들입니다.
         align: center
         background:
           image:
-            filename: profile.jpg
+            filename: others.jpg
             filters:
               brightness: 0.4
           position: center
