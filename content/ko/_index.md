@@ -9,23 +9,23 @@ design:
   spacing: "6rem"
 
 sections:
-  # - block: resume-biography-3
-  #   id: summary
-  #   content:
-  #     # Choose a user profile to display (a folder name within `content/authors/`)
-  #     username: admin
-  #     text: ""
-  #   design:
-  #     css_class: cloud
-  #     background:
-  #       image:
-  #         # Add your image background to `assets/media/`.
-  #         filename: profile.jpg
-  #         filters:
-  #           brightness: 1.0
-  #         size: cover
-  #         position: center
-  #         parallax: false
+  - block: biography
+    id: summary
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: ""
+    design:
+      css_class: cloud
+      background:
+        image:
+          # Add your image background to `assets/media/`.
+          filename: profile.jpg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
   - block: slider
     content:
       slides:

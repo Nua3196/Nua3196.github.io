@@ -41,7 +41,7 @@ social:
     link: 'mailto:rllove0405@jbnu.ac.kr' # For a direct email link, use "mailto:test@example.org".
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/hada3679/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
