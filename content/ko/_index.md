@@ -92,7 +92,7 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 7000
-      
+
   - block: custom-collection
     id: goal
     content:
@@ -101,7 +101,7 @@ sections:
         folders:
           - goal
     design:
-      view: custom-card
+      view: custom-three-card
       columns: '1'
   - block: collection
     id: strength
