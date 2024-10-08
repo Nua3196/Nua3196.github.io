@@ -3,7 +3,7 @@ name = "Sky"
 
 [light]
   # Primary
-  primary = "rgb(125 211 252)"
+  primary = "rgb(125, 211, 252)"
 
   # Menu
   menu_primary = "rgb(247, 247, 247)"
