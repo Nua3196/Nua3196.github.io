@@ -12,7 +12,7 @@ role: '학부생'
 status:
   icon: 💭
 
-Organizations/Affiliations
+# Organizations/Affiliations
 organizations:
 - name: 전북대 컴퓨터인공지능학부
   url: https://csai.jbnu.ac.kr/csai/index.do
