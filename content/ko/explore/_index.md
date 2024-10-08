@@ -1,10 +1,10 @@
 ---
 title: 기타 활동
-cms_exclude: true
+# cms_exclude: true
 #url: talk
 
 # View
-view: card
+view: compact
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
