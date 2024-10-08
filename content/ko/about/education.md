@@ -25,7 +25,7 @@ experience:
   - title: MEng Electronic Engineering
     company: University X
     company_url: ''
-    company_logo: org-x
+    company_logo: jbnu
     location: California
     date_start: '2021-01-01'
     date_end: '2022-01-01'
@@ -37,7 +37,7 @@ experience:
   - title: BEng Electronic Engineering
     company: University X
     company_url: ''
-    company_logo: org-x
+    company_logo: jbnu
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
