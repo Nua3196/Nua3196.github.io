@@ -39,12 +39,6 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-        link:
-          # icon: user
-          # icon_pack: fas
-          # text: <span style="font-size:60%">Join Us</span>
-          # text-color: '#000'
-          # url: /experiences
 
       - title: 학력 및 경력
         content: 학부 이수 현황 및 기타 경력을 소개합니다.
