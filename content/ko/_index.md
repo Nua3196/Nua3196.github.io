@@ -29,70 +29,69 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 프로젝트
-        content: 수업, 대회 등 다양한 상황에서 진행한 프로젝트들입니다.
+      - title: <span style="font-size:70%">프로젝트</span>
+        content: <span style="font-size:70%">수업, 대회 등 다양한 상황에서 진행한 프로젝트들입니다.</span>
         align: center
         background:
           image:
             filename: projects.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.7
           position: center
           color: '#000'
 
-      - title: 학력 및 경력
-        content: 학부 이수 현황 및 기타 경력을 소개합니다.
+      - title: <span style="font-size:70%">학력 및 경력</span>
+        content: <span style="font-size:70%">학부 이수 현황 및 기타 경력을 소개합니다.</span>
         align: center
         background:
           image:
             filename: experiences.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.7
           position: center
           color: '#000'
 
-      - title: 캠프 및 교육
-        content: 그동안 참여한 다양한 활동들입니다.
+      - title: <span style="font-size:70%">캠프 및 교육</span>
+        content: <span style="font-size:70%">그동안 참여한 다양한 활동들입니다.</span>
         align: center
         background:
           image:
             filename: explore.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.7
           position: center
           color: '#000'
 
-      - title: 대회
-        content: 소정의 성과들을 기록해두었습니다.
+      - title: <span style="font-size:70%">대회</span>
+        content: <span style="font-size:70%">소정의 성과들을 기록해두었습니다.</span>
         align: center
         background:
           image:
             filename: contests.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.7
           position: center
           color: '#000'
 
-      - title: 여가
-        content: 제가 즐거움을 위해 하는 것들입니다.
+      - title: <span style="font-size:70%">여가</span>
+        content: <span style="font-size:70%">제가 즐거움을 위해 하는 것들입니다.</span>
         align: center
         background:
           image:
             filename: others.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.7
           position: center
           color: '#000'
-
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '350px'
-      slide_width: '100px'
+      slide_height: '250px'
+      # slide_width: '100px'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 3000
+      interval: 7000
       
   - block: collection
     id: project
