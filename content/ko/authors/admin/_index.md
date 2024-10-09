@@ -59,7 +59,7 @@ skills:
         description: ''
         percent: 60
         icon: python
-        icon_pack: fas
+        icon_pack: fab
       - name: C
         description: ''
         percent: 50
@@ -74,7 +74,7 @@ skills:
         description: ''
         percent: 60
         icon: java
-        icon_pack: fas
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 60
