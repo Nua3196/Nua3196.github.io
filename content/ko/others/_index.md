@@ -36,8 +36,8 @@ sections:
         공강이 있는 학기엔 여행을. 지난 학기 순천, 광양을 다녀왔습니다. 나서서 가는 것뿐만 아니라 여행을 보내주는 활동도 적극 참여합니다.
       # Coordinates to display a map - set your map provider in `params.yaml`
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '34.9284391'
+        longitude: '127.4982691'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
