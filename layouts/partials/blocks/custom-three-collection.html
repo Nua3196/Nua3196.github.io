@@ -83,8 +83,8 @@
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
 
   {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
-  
-  <h2>{{ $block.title }}</h2>
+
+  <h2>{{ $block.content.title }}</h2>
 
   <div class="row justify-content-center custom-three">
     {{ range $index, $item := $query }}
