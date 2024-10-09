@@ -58,7 +58,7 @@ skills:
       - name: Python
         description: ''
         percent: 60
-        icon: python-brands-solid
+        icon: python
         icon_pack: fas
       - name: C
         description: ''
@@ -73,12 +73,13 @@ skills:
       - name: Java
         description: ''
         percent: 60
-        icon: java-brands-solid
+        icon: java
         icon_pack: fas
       - name: SQL
         description: ''
         percent: 60
-        icon: circle-stack
+        icon: database
+        icon_pack: fas
   - name: 언어
     items:
       - name: 한국어
