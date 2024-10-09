@@ -31,15 +31,25 @@ sections:
   - block: markdown
     id: travel
     content:
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
       title: '여행'
       subtitle: ''
       text: |-
         공강이 있는 학기엔 여행을. 지난 학기 순천, 광양을 다녀왔습니다. 나서서 가는 것뿐만 아니라 여행을 보내주는 활동도 적극 참여합니다.
     design:
       css_class: cloud
+      columns: '1'
+  - block: contact
+    id: contact
+    content:
+      title: 다녀온 곳
+      subtitle: ''
+      text: ''
+      # Coordinates to display a map - set your map provider in `params.yaml`
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
   - block: markdown
     id: reading
