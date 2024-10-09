@@ -32,9 +32,6 @@ main:
     parent: others
     url: ko/others/#reading
     weight: 12
-  - name: Resumé
-    url: ko/about
-    weight: 60
 
 # main:
 #   - name: 프로필
