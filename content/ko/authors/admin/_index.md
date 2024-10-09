@@ -42,10 +42,13 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/hada3679/
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Nua3196
+  - icon: linkedin
+    icon_pack: fab
+    url: https://www.linkedin.com/in/%EC%82%AC%EA%B0%95-%ED%99%8D-166a9a306/
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -76,6 +79,14 @@ skills:
         description: ''
         percent: 60
         icon: circle-stack
+  - name: 언어
+    items:
+      - name: 한국어
+        percent: 100
+      - name: 영어
+        percent: 65
+      - name: 독일어
+        percent: 15
 
 
 # Link to a PDF of your resume/CV from the About widget.
