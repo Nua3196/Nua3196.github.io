@@ -4,33 +4,33 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 자기소개
-    url: ko/
+  - name: Profile
+    url: en/
     weight: 10
-  - name: 프로젝트
-    url: ko/projects
+  - name: Projects
+    url: en/projects
     weight: 20
-  - name: 기타 활동
-    url: ko/explore
+  - name: Etc
+    url: en/explore
     weight: 30
-  - name: 대회
-    url: ko/contests
+  - name: Contests
+    url: en/contests
     weight: 40
-  - name: 여가
+  - name: Other
     identifier: others
-    url: ko/others
+    url: en/others
     weight: 50
-  - name: 뜨개질
+  - name: Knitting
     parent: others
-    url: ko/others/#knitpurl
+    url: en/others/#knitpurl
     weight: 10
-  - name: 여행
+  - name: Travel
     parent: others
-    url: ko/others/#travel
+    url: en/others/#travel
     weight: 11
-  - name: 독서
+  - name: Reading
     parent: others
-    url: ko/others/#reading
+    url: en/others/#reading
     weight: 12
 
 # main:
