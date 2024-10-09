@@ -84,7 +84,7 @@
 
   {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
 
-  <h2>{{ $block.content.title }}</h2>
+  <h2 style="text-align: center;">{{ $block.content.title }}</h2>
 
   <div class="row justify-content-center custom-three">
     {{ range $index, $item := $query }}

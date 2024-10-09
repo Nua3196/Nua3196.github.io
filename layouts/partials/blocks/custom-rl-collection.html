@@ -83,7 +83,8 @@
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
 
   {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
-
+  <h2 style="text-align: center;">{{ $block.content.title }}</h2>
+  
   {{ range $index, $item := $query }}
     {{ $text_align := "right"}}
     {{if eq (mod $index 2) 0 }}
