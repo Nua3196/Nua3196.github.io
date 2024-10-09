@@ -4,6 +4,10 @@ title: "여가"
 date: 2022-10-24
 type: landing
 
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'others.jpg'
+
 design:
   # Default section spacing
   spacing: "6rem"
