@@ -45,7 +45,7 @@ sections:
           - strength
     design:
       columns: '1'
-      view: showcase
+      view: custom-lr-showcase
   - block: custom-rl-collection
     id: weakness
     content:
