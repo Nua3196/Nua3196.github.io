@@ -79,9 +79,13 @@ ul.network-icon .big-icon {
   color: #42475d !important;
 }
 
-// .cloud a, h3.article-title a:hover{
-//   color: #42475d !important;
-// }
+.cloud a, h3.article-title a:hover{
+  color: #7dd3fc !important;
+}
+
+.network-icon a:hover {
+  color: #7dd3fc;
+}
 
 .cloud .article-style {
   color: #686e8b;
@@ -105,10 +109,6 @@ ul.network-icon .big-icon {
 
 .skills-percent {
   background-color: #7dd3fc;
-}
-
-.network-icon a:hover {
-  color: #7dd3fc;
 }
 
 .avatar-wrapper {

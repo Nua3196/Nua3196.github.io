@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 홍사강
+title: Sakang Hong
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: '학부생'
+role: 'Undergraduate'
 
 # Status emoji
 status:
@@ -14,21 +14,21 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: 전북대학교 컴퓨터인공지능학부
+- name: JBNU Department of Computer Science & Artificial Intelligence
   url: https://csai.jbnu.ac.kr/csai/index.do
 
 # Short bio (displayed in user profile at end of posts)
-bio: 전북대학교 컴퓨터공학부 3학년 홍사강입니다. 운영체제, 시스템 보안, 임베디드 시스템에 관심이 있고 AI에도 약간의 흥미를 가지고 있습니다.
+bio: I am Hong Sa-gang, a third-year student in the Department of Computer Engineering at Jeonbuk National University. I am interested in operating systems, system security, and embedded systems, and I also have a slight interest in AI.
 
 interests:
-  - 운영체제
-  - 보안
+  - Operating System
+  - Security
   - AIoT
 
 education:
  courses:
- - course: 컴퓨터공학(재학)
-   institution: 전북대학교 컴퓨터인공지능학부
+ - course: Computer Science (Undergraduate)
+   institution: JBNU Department of Computer Science & Artificial Intelligence
    year: 2022
 
 # Social/Academic Networking
@@ -53,7 +53,7 @@ social:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: 프로그래밍 언어
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
@@ -80,13 +80,13 @@ skills:
         percent: 60
         icon: database
         icon_pack: fas
-  - name: 언어
+  - name: Languages
     items:
-      - name: 한국어
+      - name: Korean
         percent: 100
-      - name: 영어
+      - name: English
         percent: 65
-      - name: 독일어
+      - name: German
         percent: 15
 
 
@@ -99,9 +99,11 @@ skills:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-## 안녕하세요!
+## Hello!
 
 <div style="text-align: justify;">
-전북대학교 컴퓨터공학부 3학년에 재학중인 홍사강입니다. 대학생의 가장 좋은 점은 관대한 시선 아래 새로운 걸 배우는 데 시간을 쓸 수 있는 거라고 생각합니다. 전공 수업 듣는 걸 좋아해서 흥미가 가는 수업은 시간표가 허락하는 한 다 듣고 있습니다.
-현재 운영체제와 임베디드, 시스템 보안에 관심을 가지고 있지만, 아직 진로와 관심 분야 탐색 중입니다. 최근에는 AI도 생각보다 재미있다고 생각하고 있습니다. 어떤 분야로 가게 되든 저의 목표는 전공자다운, 전문가다운 엔지니어가 되는 것입니다.
+I'm a junior in the Department of Computer Science at Jeonbuk National University.
+I believe the best part of being a university student is that you can spend time learning new things without worrying about what others think.
+I enjoy taking classes in my major. As long as my schedule allows, my goal is to take all the major classes I want before graduation.
+I am currently interested in operating systems, embedded systems, and system security, but I am still exploring my career path and areas of interest. Recently, I've also had a bit of interest in Artificial Intelligence. Regardless of the field I pursue, my goal is to become an engineer who is knowledgeable and professional in my major.
 </div>
