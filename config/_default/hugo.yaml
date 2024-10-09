@@ -10,15 +10,15 @@ baseURL: 'https://nua3196.github.io/' # Website URL
 ## PAGE OPTIONS
 ############################
 
-cascade:
-  # Blog post options
-  - _target:
-      path: /post/**
-    editable: true
-    reading_time: true
-    commentable: true
-    show_related: true
-    show_breadcrumb: true
+# cascade:
+#   # Blog post options
+#   - _target:
+#       path: /post/**
+#     editable: true
+#     reading_time: true
+#     commentable: true
+#     show_related: true
+#     show_breadcrumb: true
 
 ############################
 ## LANGUAGE
