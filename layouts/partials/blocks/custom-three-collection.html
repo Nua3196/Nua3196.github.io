@@ -83,6 +83,9 @@
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
 
   {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
+  {{ if .Params.section }}
+  <h2>{{ .Params.section }}</h2>
+  {{ end }}
 
   <div class="row justify-content-center custom-three">
     {{ range $index, $item := $query }}
