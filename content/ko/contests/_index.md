@@ -1,5 +1,5 @@
 ---
-title: e대회
+title: 대회
 # cms_exclude: true
 #url: talk
 
