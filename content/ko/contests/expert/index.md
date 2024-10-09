@@ -6,6 +6,8 @@ tags:
   - Interview
   - Award
 ---
+<div style="text-align: justify;">
 2023년 겨울, 컴계일학 팀으로 기업의 달인되기 활동에 참여했습니다.  
 당근, 금융결제원에 근무 중인 현직자분들을 만나뵙고 인터뷰했으며, 직무와 기업에 대해 조사하여 보고서를 작성하고, 결과발표를 진행했습니다.  
 [발표 영상 보러가기](https://youtu.be/u2XXVOcbTgg)
+</div>
