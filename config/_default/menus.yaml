@@ -22,15 +22,15 @@ main:
     weight: 50
   - name: 뜨개질
     parent: others
-    url: ko/others/knitpurl
+    url: ko/others/#knitpurl
     weight: 10
   - name: 여행
     parent: others
-    url: ko/others/travel
+    url: ko/others/#travel
     weight: 11
   - name: 독서
     parent: others
-    url: ko/others/reading
+    url: ko/others/#reading
     weight: 12
   - name: Resumé
     url: ko/about

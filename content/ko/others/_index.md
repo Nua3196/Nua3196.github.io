@@ -19,6 +19,7 @@ design:
 
 sections:
   - block: markdown
+    id: knitpurl
     content:
       title: '뜨개질'
       subtitle: ''
@@ -28,6 +29,7 @@ sections:
       css_class: cloud
       columns: '1'
   - block: markdown
+    id: travel
     content:
       coordinates:
         latitude: '37.4275'
@@ -40,6 +42,7 @@ sections:
       css_class: cloud
       columns: '1'
   - block: markdown
+    id: reading
     content:
       title: '독서'
       subtitle: ''
