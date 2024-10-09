@@ -36,7 +36,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: custom/envelope-regular
+  - icon: envelope
     icon_pack: fas
     link: 'mailto:rllove0405@jbnu.ac.kr' # For a direct email link, use "mailto:test@example.org".
   - icon: instagram
@@ -46,6 +46,37 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: 프로그래밍 언어
+    items:
+      - name: Python
+        description: ''
+        percent: 60
+        icon: python-brands-solid
+        icon_pack: fas
+      - name: C
+        description: ''
+        percent: 50
+        icon: c
+        icon_pack: custom
+      - name: C++
+        description: ''
+        percent: 50
+        icon: cplusplus
+        icon_pack: custom
+      - name: Java
+        description: ''
+        percent: 60
+        icon: java-brands-solid
+        icon_pack: fas
+      - name: SQL
+        description: ''
+        percent: 60
+        icon: circle-stack
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
