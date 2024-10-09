@@ -7,7 +7,7 @@ title: 대회
 view: compact
 
 # Optional cover image (relative to `assets/media/` folder).
-image:
+banner:
   caption: ''
   filename: ''
 ---

@@ -7,7 +7,7 @@ title: 기타 활동
 view: compact
 
 # Optional cover image (relative to `assets/media/` folder).
-image:
+banner:
   caption: ''
   filename: 'explore.jpg'
 ---
