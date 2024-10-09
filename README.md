@@ -3,7 +3,7 @@
 [![Screenshot](https://github.com/user-attachments/assets/679b1b46-8da2-4240-9d74-7c7988fd2a53)](https://nua3196.github.io/ko/)
 
 전북대학교 **2024년 2학기 웹서비스설계 수업**의 과제로 제작된 **전북대학교 컴퓨터공학부 홍사강**의 자기소개 페이지입니다.  
-[Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)을 기반으로 시작되었으나, Hugo Tailwind Block의 한정성으로 인해 Bootstrap Block을 이용하는 [Hugo Portfolio Theme](https://github.com/HugoBlox/theme-portfolio)으로 이동하였습니다. 자기소개, 관심사, 학력 및 수상 경력, 프로젝트 경험 등에 대해 확인하실 수 있습니다.
+[Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)을 기반으로 시작되었으나, Hugo Tailwind Block의 한정성으로 인해 Bootstrap Block을 이용하는 [Hugo Portfolio Theme](https://github.com/HugoBlox/theme-portfolio)으로 변경되었습니다. 자기소개, 관심사, 학력 및 수상 경력, 프로젝트 경험 등에 대해 확인하실 수 있습니다.
 
 ## Hugo에 관해서
 
